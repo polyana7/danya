@@ -1,0 +1,40 @@
+body{
+   background-color: pink;
+}
+
+h1{
+   text-align: center;
+   padding: 100px 0 0 0 ;
+   font-size: 50px;
+   color: whitesmoke;
+   
+}
+.link{
+   text-decoration: none;
+   color: #22add4;
+   font-size: 30px;
+         line-height: 25px;
+         font-weight: 700;
+         text-transform: uppercase;
+         letter-spacing: 0.1em;
+         text-align: center;
+         padding: 15px 20px;
+         text-decoration: none;
+         border: 2px solid #000;
+         background-color: whitesmoke;
+         border-radius: 15px;
+
+}
+.vibor_footer{
+   text-align: center;
+   padding: 100px 0 0 0;
+      
+}
+.link:hover{
+   font-size: 35px;
+   transition-duration: 0.5s;
+   box-shadow:  3px 3px 7px 3px #000;
+   background-color: #000;
+   color: pink;
+
+}
